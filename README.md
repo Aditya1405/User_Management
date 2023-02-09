@@ -1,5 +1,6 @@
 # User_Management
-A single page Application to manager User data
+<p>A single page Application to manage User data -> read, save, update, delete</p>
+<p>See About (top right corner) to use the application</p>
 # Features 
 <ul>
 <li>CRUD operation</li>
